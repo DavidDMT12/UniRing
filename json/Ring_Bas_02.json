@@ -1,6 +1,6 @@
 {
-  “title” : “University of Basel Graduation Ring”
-  "description": “Class ring commemorating the graduation of the call of Fall 2022”
+  “title” : “University of Basel Graduation Ring”,
+  "description": “Class ring commemorating the graduation of the call of Fall 2022”,
   "image": "https://raw.githubusercontent.com/l-m-s/UniRing/main/ImageRing/Ring_Bas_02.jpg”,
   “attributes” : [
 {
@@ -9,12 +9,11 @@
         }, 
         {
        "trait_type": “Commemorated_Event”, 
-       "value": “Graduation Fall 2022”      
- }, 
+       "value": “Graduation Fall 2022”     
+}, 
        {
        "trait_type": “Date of issuing”, 
         “value": “10-11-2022”
       }, 
-         
-
+  ]
 }
